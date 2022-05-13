@@ -23,8 +23,10 @@ It helps in saving money by switching off the irrigation system when it rains. <
 Once the board repaired can not be replaced quickly <br/>
 # Requirements
 # High level Requirement
-[High level requirement wiper control.docx](https://github.com/Kuldeep-te/M3_Wiper_control_System/files/8679925/High.level.requirement.wiper.control.docx)
+
+![highlevel requirement wiper](https://user-images.githubusercontent.com/77101903/168214160-29a9c053-cd28-48d2-87e3-46a7aa179042.PNG)
 
 
 # Low level Requirement
-[Low level    Requirement wiper control.docx](https://github.com/Kuldeep-te/M3_Wiper_control_System/files/8679886/Low.level.Requirement.wiper.control.docx)
+
+![low level requirement wiper](https://user-images.githubusercontent.com/77101903/168214177-a60f2b9d-759e-4ab9-8c2e-6ce4b8ea41af.PNG)
