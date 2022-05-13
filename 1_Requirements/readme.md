@@ -21,6 +21,12 @@ Range motion is limited <br/>
 It helps in saving money by switching off the irrigation system when it rains. <br/>
 # THREATS <br/>
 Once the board repaired can not be replaced quickly <br/>
+# 4W and 1H
+What = Automatic wiper system for vehicels.
+why = To get to know about wiper system
+when = It is used when the key turned ON/OFF where three LED's are turned ON/OFF
+where = It is used in vehicels
+how = IT  can be achieved by the analog to digital convertor
 # Requirements
 # High level Requirement
 
